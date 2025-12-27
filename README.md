@@ -8,7 +8,7 @@ I create tools for Roblox scripting.
 
 ## Featured Projects
 
-### 🟣 [web-lua-code-editor](https://github.com/raknot/web-lua-code-editor)
+### 🟣 [Raknot-lua-editor](https://github.com/raknot/Raknot-lua-editor)
 Professional browser-based Lua/Roblox IDE with syntax highlighting, error checking, and multi-file support.
 
 ### 🔴 [raknot.dev](https://raknot.dev)
